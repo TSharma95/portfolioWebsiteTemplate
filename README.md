@@ -23,12 +23,10 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-- website is equipped with COLOR SWITCHER
 
 Additional features:
-- Night toggle for late NIght studies
-- design of **Login and Sign Up** modals
-- Glassporphism Design integration
+- Include Waves for modern design
+- Use of Blob in design
 
 ### Screenshot
 
@@ -50,7 +48,7 @@ Additional features:
 ### What I learned
 
 This website helped covered a major and trending parts in website desiging. website is built on Bootstrap framework which help in faster and cleaner websites. 
-learned how to create dynamically changing website with color switch property with DARK mode and Glassmorphism. 
+learned how to create dynamically changing website with the help of SCSS. Better understanding how scss works with use of mixins and how to use custom property to build the website accordingly with bootstarp classes. 
 
 Widened my approch with javascript for creating better dynamic websites. implementing loaders along with toggle into diffrent themes.
 
