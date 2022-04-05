@@ -32,7 +32,7 @@ Additional features:
 
 ### Screenshot
 
-![E-learn-Website](./screenshots/landing-page.png)
+![E-learn-Website](./portfolioWebsiteTemplate-screenshot.png)
 
 ## My process
 
