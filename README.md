@@ -4,6 +4,6 @@
 
 ### WEBSITE PREVIEW 
 
-website-link: 
+website-link: https://tsharma95.github.io/portfolioWebsiteTemplate/
 
 screenshot: https://github.com/TSharma95/portfolioWebsiteTemplate/blob/master/portfolioWebsiteTemplate-screenshot.png
