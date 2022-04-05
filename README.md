@@ -6,4 +6,4 @@
 
 website-link: 
 
-screenshot: 
+screenshot: https://github.com/TSharma95/portfolioWebsiteTemplate/blob/master/portfolioWebsiteTemplate-screenshot.png
